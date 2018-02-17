@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo " this is first script"
 mkdir /var/tmp/test1
 cd /var/tmp/test1
