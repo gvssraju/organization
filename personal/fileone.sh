@@ -1,8 +1,8 @@
 #!/bin/bash 
 echo " this is first script" 
 cd /var/tmp/personal/
-mkdir fileone
+mkdir file2
 ls -l
-cd fileone
+cd file2
 touch a b c 
 echo "end"
