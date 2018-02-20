@@ -1,6 +1,6 @@
 #!/bin/bash 
 echo " this is first script" 
-mkdir /var/tmp/test1 
-cd /var/tmp/test1 
+mkdir /var/tmp/personal/fileone
+cd /var/tmp/personal/fileone
 touch a b c 
 echo "end"
